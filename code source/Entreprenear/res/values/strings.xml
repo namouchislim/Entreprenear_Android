@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize">Customize</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="undo">Undo</string>
+    
+    <string name="app_name">Entreprenear</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Join">join</string>
+    <string name="go">   Contiue   </string>
+    <string name="register_as">Register as</string>
+    <string name="entrepreneur">Entrepreneur</string>
+    <string name="mentor">Mentor</string>
+    <string name="signin">    Sign in    </string>
+    <string name="forgetpw">Forget your password ?</string>
+    <string name="fullname">Full Name</string>
+    <string name="pwd">Password</string>
+    <string name="title_activity_profil">Profil</string>
+    <string name="name">Mr. Ahmed Hadhari</string>
+    <string name="company">Company Name</string>
+    <string name="country">Tunisia</string>
+    <string name="secteur">Marketing Advertising</string>
+    <string name="pourcentage_profil">90 % of profil Complited</string> 
+    <string name="busines_lunch_with">Business lunch with</string>
+     <string name="timetxt">Time</string>
+    <string name="fromtxt">From</string>
+    <string name="totxt">To</string>
+    <string name="placetxt">Place</string>
+    <string name="topictxt">Topic</string>
+    
+    <string-array name="nav_drawer_items">
+        <item >Business Lunch</item>
+        <item >Check In</item>
+        <item >Entrepreneurs</item>
+        <item >Mentors</item>
+        <item >Top users</item>
+    </string-array>
+    
+   
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+  
+    
+
+</resources>
